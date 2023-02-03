@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - ![Top Langs](https://github-readme-stats.vercel.app/api?username=andishmandsaadi&count_private=true&show_icons=true&theme=radical)
 - [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=andishmandsaadi)](https://github.com/andishmandsaadi/github-contribution-stats/)
-- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/andishmandsaadi)](https://git.io/awesome-stats-card)
+- [![My Awesome Custom Stats](https://awesome-github-stats.azurewebsites.net/user-stats/andishmandsaadi?theme=tokyonight&Ring=DD2727&Border=13DD57&Text=DD2727)](https://git.io/awesome-stats-card)
