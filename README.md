@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+My name is Saadi Andishmand
 
 - 🔭 I’m currently working on Codeigniter and Python
 - 🌱 I’m currently learning Laravel and Django
